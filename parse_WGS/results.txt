@@ -1,1 +1,0 @@
-Sample_name	Num_of_reads	Num_of_bases	Average_cov	Num_of_contigs	Total_length	N50	L50	Percent_match
